@@ -1,10 +1,10 @@
 # Script2Screen
 
-# Description:
+## Description:
 
 Script2Screen is an innovative AI-powered platform designed to automate the video creation process. It transforms text scripts into fully edited videos by integrating various AI technologies, significantly reducing the time and effort required for manual video production. This platform is particularly useful for content creators, marketers, and educators who need to quickly generate high-quality videos from written content.
 
-##How It Works:
+## How It Works:
 
 1. Script Input: The user starts by inputting a text script into the Script2Screen platform. This script serves as the foundation for the video.
 
@@ -27,7 +27,7 @@ Script2Screen is an innovative AI-powered platform designed to automate the vide
 5. Python Flask: Backend framework to manage the application's logic.
 6. HTML5 and CSS3: For the user interface design.
 
-##Benefits:
+## Benefits:
 
 1. Efficiency: Reduces video creation time by 60% compared to manual processes.
 2. Scalability: Allows for rapid content production, making it ideal for users who need to generate multiple videos quickly.
