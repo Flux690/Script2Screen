@@ -33,3 +33,6 @@ Script2Screen is an innovative AI-powered platform designed to automate the vide
 2. Scalability: Allows for rapid content production, making it ideal for users who need to generate multiple videos quickly.
 3. Customization: Users can easily adjust the generated content to fit their specific needs, offering flexibility in the final output.
 4. Script2Screen is a powerful tool for anyone looking to streamline video production, making high-quality content creation accessible and efficient.
+
+## Demo:
+Check out the demo of Script2Screen in action here: [Script2Screen Demo](https://drive.google.com/file/d/1TYSljAlBn-T1Wnve0ENMv7zSo_YReRAQ/view?usp=sharing)
