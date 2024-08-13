@@ -1,0 +1,49 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    background-color: aqua;
+    width: 40rem;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form select {
+    width: 10rem;
+    color: black;
+    margin: .5rem 0 .5rem 0;
+    font-family: Inter, sans-serif;
+}
+
+
+form input[type="submit"] {
+    width: 8.5rem;
+    height: 2rem;
+    font-family: Inter, sans-serif;
+}
+
+#text {
+    width: 30rem;
+    height: 10rem;
+    outline: none;
+    resize: none;
+
+    padding: 5px;
+    font-size: 1rem;
+    font-family: Inter, sans-serif;
+}
+
+
+

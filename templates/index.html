@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"/>
+    <script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
+    <title>Assignment</title>
+</head>
+<body>
+    <div class= "container">
+        <form action="/" method="POST">
+            <textarea id="text" name="text" maxlength="1000"></textarea>
+            <select id="voice" name="voice">
+                <option value="Joanna">Joanna</option>
+                <option value="Olivia">Olivia</option>
+                <option value="Amy">Amy</option>
+                <option value="Brian">Brian</option>
+                <option value="Matthew">Matthew</option>
+            </select> 
+            <input type="submit" value="Generate Voiceover">
+        </form>
+    </div>
+    <script>
+        window.onload = function() {
+            document.getElementById("text").value = "";
+            document.getElementById("voice").selectedIndex = 0;
+        };
+    </script>
+</body>
+</html>
